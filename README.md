@@ -13,8 +13,8 @@
 - 🔹 **Tools:** Docker, Git/GitHub, Linux, Bash  
 - 🔹 **Frameworks/Libraries:** TensorFlow, Pandas, Scikit-Learn  
 
-📈 **GitHub Stats**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manidmt&show_icons=true&theme=dark)  
+<!-- 📈 **GitHub Stats**  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manidmt&show_icons=true&theme=dark)  -->
 
 📫 **Contact Me**  
 - 💼 [LinkedIn](https://linkedin.com/in/manuel-diaz-meco-terres)  
