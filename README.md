@@ -2,8 +2,7 @@
 
 **Financial Data Scientist | Software Engineer**
 
-Double Degree in Computer Science & Mathematics. MSc in Artificial Intelligence.
-Specialized in Quantitative Finance, Machine Learning, and System Architecture.
+Double Degree in Computer Science & Mathematics. MSc in Artificial Intelligence. MSc in Quantitative Finance
 
 ---
 
@@ -23,6 +22,8 @@ Specialized in Quantitative Finance, Machine Learning, and System Architecture.
 
 * [**Market Return Prediction (BSc Thesis)**](https://github.com/manidmt/TFG)
     Comparative analysis of Transformers, CNNs, and SVR for financial time-series forecasting.
+* [**Volatility Forecasting and Regime Detection (MSc Thesis)**](https://github.com/manidmt/TFM)
+    Hybrid GARCH-type and tabular ML (TabPFN) for volatility forecasting and regime detection.
 
 ---
 
