@@ -16,14 +16,19 @@ Double Degree in Computer Science & Mathematics. MSc in Artificial Intelligence.
 
 * **Languages:** Python, C++, SQL, Bash.
 * **Quant & ML:** Pandas, NumPy, Scikit-learn, TensorFlow, Time-Series Analysis.
+* **AI Engineering:** FastAPI, RAG pipelines, WhisperX, LLM APIs.
 * **Engineering:** Linux, Git, Docker, CI/CD, Unit Testing.
 
 ### Projects
 
+* [**Volatility Forecasting and Regime Detection (MSc Thesis)**](https://github.com/manidmt/TFM) · [Live demo](https://risk.manidmt.es)
+    Hybrid GARCH-type and tabular ML (TabPFN) for volatility forecasting and regime detection. Full pipeline: ingestion → features → walk-forward → calibration → FastAPI/React → Docker.
+* [**knowledge-engine**](https://github.com/manidmt/knowledge-engine)
+    Multimodal RAG ingestion engine — WhisperX ASR, Docling PDF parsing, embeddings, FastAPI + React.
+* [**SecondBrain**](https://github.com/manidmt/SecondBrain)
+    Telegram voice notes → Whisper transcription → LLM understanding → Notion sync. End-to-end containerized automation.
 * [**Market Return Prediction (BSc Thesis)**](https://github.com/manidmt/TFG)
     Comparative analysis of Transformers, CNNs, and SVR for financial time-series forecasting.
-* [**Volatility Forecasting and Regime Detection (MSc Thesis)**](https://github.com/manidmt/TFM)
-    Hybrid GARCH-type and tabular ML (TabPFN) for volatility forecasting and regime detection.
 
 ---
 
